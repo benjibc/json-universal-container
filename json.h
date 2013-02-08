@@ -32,10 +32,6 @@
 
 #endif
 
-
-
-
-
 #include <iostream>
 #include <cassert>
 
